@@ -4,12 +4,6 @@ An enthusiastic and dedicated student of Information Systems with a passion for 
 
 Now I am active as an information system study student with an interest in the world of technology.
 
-- 🔭 I’m currently working on my personal project
-- 🌱 I’m currently learning about machine learning and cybersecurity enthusiast
-- ⚡  I'm excited to create open-source projects
-- 😁 I'm natively speak Indonesian
-- 😁 I'm intermediate to speak English
-
   
 ### Github Statistic
 <p align="left">
