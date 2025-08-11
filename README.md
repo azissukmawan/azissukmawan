@@ -1,8 +1,8 @@
 ### Hi! 👋 I'm Azis.
 
-An enthusiastic and dedicated student of Information Systems with a passion for the fascinating world oftechnology. Excited to learn and explore programming, new technologies.
-
-Now I am active as an information system study student with an interest in the world of technology.
+I’m a Bachelor of Information Systems graduate with a strong passion for technology and software development.
+Currently, I’m focusing on enhancing my skills in backend development, exploring modern frameworks, and building efficient, scalable applications.
+Eager to keep learning, experimenting, and contributing to exciting tech projects.
 
   
 ### Github Statistic
