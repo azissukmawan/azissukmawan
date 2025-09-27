@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Azis.
 
-I’m a Bachelor of Computer Science with a strong passion for technology and software development.
+I’m a Fresh Graduate Computer Science with a strong passion for technology and software development.
 Currently, I’m focusing on enhancing my skills in backend development, exploring modern frameworks, and building efficient, scalable applications.
 Eager to keep learning, experimenting, and contributing to exciting tech projects.
 
