@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD042-->
 # Hi there, I'm **[Azis](https://amawan.me)**! <img width="45" src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif"> 
 
-[![@azissukmawan's Holopin board](https://holopin.me/azissukmawan)](https://holopin.io/@azissukmawan)
+[![An image of @azissukmawan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/azissukmawan)](https://holopin.io/@azissukmawan)
 
 I’m a Fresh Graduate Computer Science with a strong passion for technology and software development.
 Currently, I’m focusing on enhancing my skills in backend development, exploring modern frameworks, and building efficient, scalable applications.
